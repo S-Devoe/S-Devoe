@@ -10,7 +10,7 @@ I am a Frontend Developer and UI/UX Designer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [chelseg14@gmail.com](mailto:chelseg14@gmail.com)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning Backend development
 * 🤝  I'm open to collaborating on ReactJs Frontend role
 * ⚡  I love learning new things
 
