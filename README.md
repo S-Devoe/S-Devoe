@@ -3,7 +3,7 @@
 Hi 👋 My name is Lagbalu Lateef - O
 ===================================
 
-Frontend Developer and UI/UX designer
+Frontend Developer
 -------------------------------------
 
 I am a Frontend Developer and UI/UX Designer
