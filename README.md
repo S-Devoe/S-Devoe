@@ -6,7 +6,7 @@ Hi 👋 My name is Lagbalu Lateef - O
 Frontend Developer
 -------------------------------------
 
-I write codes and also draw BDMs and SFDs
+I write codes and also draw BMDs and SFDs
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [chelseg14@gmail.com](mailto:chelseg14@gmail.com)
