@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 I write code like a maestro conducts music — with precision and style 🎶💻. Always exploring 🌍, always building 🛠️🚀, always learning 📚✨.</p>
+<p align="left">🎯 I write code like a maestro conducts music, with precision and style 🎶💻. Always exploring 🌍, always building 🛠️🚀, always learning 📚✨.</p>
 
 ###
 
